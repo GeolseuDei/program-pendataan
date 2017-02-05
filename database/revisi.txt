@@ -1,0 +1,7 @@
+status (admin) = boolean ?
+panjang id_anggota = (int)10 ?
+pangkat = varchar 50?
+
+
+revisi :
+pangkat = sub tabel db ?
